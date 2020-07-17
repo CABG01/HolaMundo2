@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mi Primer Programa</string>
+    <string name="todo">TODO</string>
+    <string name="Marcianito">TODO</string>
+    <string name="introducction">Bienvenido</string>
+    <string name="first_button">Entrar</string>
+</resources>

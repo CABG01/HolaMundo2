@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">My First Program</string>
+    <string name="todo">TODO</string>
+    <string name="Marcianito">TODO</string>
+    <string name="introducction">Welcome</string>
+    <string name="first_button">Enter</string>
+</resources>
